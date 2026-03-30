@@ -79,15 +79,6 @@ Passionate about building robust systems, from web platforms to embedded devices
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenaic-hounleba&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaic-hounleba&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 💼 eBoost Studio
 
 **Founder & Lead Developer** (2023 - present)
