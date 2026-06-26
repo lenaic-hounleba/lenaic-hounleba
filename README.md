@@ -19,17 +19,6 @@ Passionate about building robust systems, from web platforms to embedded devices
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🚌 ResaWeb](https://github.com/lenaic-hounleba/bus-reservation-app) | Vehicle reservation platform for an association | PHP · CodeIgniter 4 · MySQL |
-| [🍕 Pizza2Luxe](https://github.com/lenaic-hounleba/pizza2luxe) | Desktop pizza ordering app with full business logic | Java · JavaFX · JUnit |
-| [🗳️ Vote UNSTIM](https://github.com/lenaic-hounleba/vote-unstim) | Online voting platform with payment integration (client project) | Laravel · MySQL · FedaPay |
-| [🏥 IoT Health System](https://github.com/lenaic-hounleba) | Connected device for automated patient vital signs collection | Arduino · ESP32 · PHP · MySQL |
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
